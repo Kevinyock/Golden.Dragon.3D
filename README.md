@@ -6,12 +6,7 @@ Compatible models are: MMD, XNALara, Mixamo, Source Engine, Unreal Engine, DAZ/P
 With Cats it takes only a few minutes to upload your model into VRChat.
 All the hours long processes of fixing your models are compressed into a few functions!
 
-So if you enjoy how this plugin saves you countless hours of work consider supporting us through Patreon.
-There are a lot of perks like having your name inside the plugin!
-
-[![](https://i.imgur.com/BFIald5.png)](https://www.patreon.com/catsblenderplugin)
-
-#### Download here: [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)
+#### Download here: Work in Progress
 
 ## Features (Click to Expand)
  - <details><summary>Creating lip syncing</summary>
